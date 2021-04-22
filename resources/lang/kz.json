@@ -1,0 +1,71 @@
+{
+"Home": "үй",
+"Orders":"тапсырыс",
+"Contacts":"хабарлас",
+"cart" : "себет",
+"Logout": "шығу",
+"login":"кіру" ,
+
+"cool bags ever":"ең ғажап сөмкелер",
+"Trending Products":"трендтегі сөмкелер",
+"Amount":"баға",
+"Tax":"салық",
+"Delivery":"жолдама",
+"Total Amount":"барлық баға",
+"Payment Method":"төлеу жолы",
+"online payment":"онлайн төлеу",
+"EMI payment":"кепілдікке",
+"payment on delivery":"жолдамаға төлеу",
+
+"Order Now":"тапсырыс беру",
+"Result for Products":"Қорытынды тапсырыс",
+"Remove to Cart":"кетіру",
+"Contact Information":"хабарлама ақпараты",
+"address of shop":"мекен жай",
+"Kazakhstan, Atyrau":"Қазақстан, Атырау",
+"Name":"Аты жөн",
+"Price":"Бағасы",
+"Details":"Детальды",
+"category":"Категория",
+"Add to cart":"себетке салу",
+"Buy now":"сатып алу",
+"back":"артқа",
+"We originally started cleaning and restoring handbags and small leather goods, working both for members of the public as well as department stores and fashion houses. Over the years our team acquired expert knowledge about the design, manufacture and authenticity of designer handbags.":
+"Бастапқыда біз сөмкелер мен былғарыдан жасалған ұсақ-түйек бұйымдарды тазалап, қалпына келтіре бастадық. Бірнеше жыл ішінде біздің команда дизайнерлік сөмкелердің дизайны, жасалуы және шынайылығы туралы сараптамалық білімге ие болды.",
+
+"About":"туралы",
+"Help":"көмек",
+"Contact":"хабарласу",
+"Terms":"терм",
+"Meetups":"кездесулер",
+"Shop":"дүкен",
+"Privacy":"қауыпсіздік",
+"Testimonials":"тесттер",
+"Handbook":"қолдама",
+"Held Desk":"көмек тақтасы",
+"Find bags":"сөмке іздеу",
+"Find shppers":"сөмке табу",
+"Words":"сөздер",
+"Bag love":"сөмке махаббат",
+"thisis":"бұл",
+"2021, with love ur bagworld":"2021, махаббатпен bagworld ",
+"Email address":"пошта",
+"We'll never share your email with anyone else.":"Біз сіздің электрондық поштаңызды ешқашан ешкіммен бөліспейміз",
+"Password":"құпия сөз",
+"Submit":"жіберу",
+"Delivery Status":"",
+"Address":"мекен жай",
+"Payment Status":"төлем жағдайы",
+"my orders":"менің тапсырыстарым",
+"delivery status":"жолдама жағдайы",
+"Get In Touch":"Байланысу"
+
+
+
+
+
+
+
+
+    
+}
